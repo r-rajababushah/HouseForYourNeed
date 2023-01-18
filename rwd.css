@@ -1,0 +1,128 @@
+@media screen and (max-width:1440px) {
+
+    .nav label {
+        padding: 2rem;
+        font-size: 5rem;
+    }
+
+    .nav-list>* {
+        padding: 1rem;
+        font-size: 3rem;
+    }
+
+    .main .content .img-container img {
+        height: 46rem;
+        width: 46rem;
+    }
+
+}
+
+@media screen and (max-width:1366px) {
+    .nav label {
+        padding: 2rem;
+        font-size: 3.5rem;
+    }
+
+    .nav-list>* {
+        padding: 1rem;
+        font-size: 2rem;
+    }
+
+    .main .content .img-container img {
+        height: 33rem;
+        width: 32rem;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .nav label {
+        padding: 2rem;
+        font-size: 3.5rem;
+    }
+
+    .nav-list>* {
+        padding: 1rem;
+        font-size: 2rem;
+    }
+
+    .main .content .img-container img {
+        height: 32rem;
+        width: 32rem;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .nav label {
+        padding: 2rem;
+        font-size: 2rem;
+    }
+
+    .nav-list>* {
+        padding: 1rem;
+        font-size: 1.5rem;
+    }
+
+    .main .content .img-container img {
+        height: 24rem;
+        width: 24rem;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .nav label {
+        padding: 2rem;
+        font-size: 1.5rem;
+    }
+
+    .nav-list>* {
+        padding: 1rem;
+        font-size: 1rem;
+    }
+
+    .main .content .img-container img {
+        height: 19.5rem;
+        width: 19.5rem;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .nav label {
+        padding: 2rem;
+        font-size: 1.4rem;
+    }
+
+    .nav-list>* {
+        padding: .5rem;
+        font-size: 1rem;
+    }
+
+    .main .topic h1 {
+        font-size: 1rem;
+    }
+
+    .main .content .img-container img {
+        height: 17rem;
+        width: 17rem;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .nav label {
+        padding: 2rem;
+        font-size: 1.1rem;
+    }
+
+    .nav-list>* {
+        padding: .5rem;
+        font-size: .8rem;
+    }
+
+    .main .topic h1 {
+        font-size: 1rem;
+    }
+
+    .main .content .img-container img {
+        height: 14rem;
+        width: 14rem;
+    }
+}
